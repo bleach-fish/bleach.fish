@@ -18,7 +18,7 @@
  * - MAX_CONTENT_BYTES            (defaults to 200000)
  */
 
-const DEFAULT_ALLOWED_USER = 'bleach2004'
+const DEFAULT_ALLOWED_USER = 'bleach-fish'
 const DEFAULT_POSTS_BASE_PATH = 'site/src/posts'
 const DEFAULT_SONGS_BASE_PATH = 'site/src/music'
 const DEFAULT_ART_BASE_PATH = 'site/public/art'
